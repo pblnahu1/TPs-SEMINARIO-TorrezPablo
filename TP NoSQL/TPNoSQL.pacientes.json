@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "66e338de1112cadbec2710bc"
+  },
+  "nombre": "Oliver",
+  "especie": "Perro",
+  "raza": "Caniche",
+  "edad": 1,
+  "dueño": {
+    "nombre": "Pablo Torrez",
+    "telefono": "123456789"
+  }
+},
+{
+  "_id": {
+    "$oid": "66e338de1112cadbec2710bd"
+  },
+  "nombre": "Emma",
+  "especie": "Gato",
+  "raza": "Siames",
+  "edad": 2,
+  "dueño": {
+    "nombre": "Ana Gomez",
+    "telefono": "987654321"
+  }
+}]

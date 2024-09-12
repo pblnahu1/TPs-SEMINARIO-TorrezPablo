@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "66e339381112cadbec2710be"
+  },
+  "nombre": "Dr. Juan Rodríguez",
+  "especialidad": "Cirugia",
+  "telefono": "123456789"
+}]
