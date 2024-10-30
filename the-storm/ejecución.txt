@@ -1,0 +1,3 @@
+El archivo `main.py` es el archivo a ejecutar.
+Haciendo click en el ícono de VsCode para ejecutar o
+desde la terminal con `python main.py`, con él iniciará el juego.
